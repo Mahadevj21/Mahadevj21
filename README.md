@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm a **BCS graduate** passionate about **backend developm
 
 **Tech:** `Java` `Spring Boot` `React` `PostgreSQL` `REST APIs`
 
-🔗 **[View Repository](https://github.com/Mahadevj21/RealEstate)** | 🚀 **[Live Demo](link-if-deployed)**
+🔗 **[View Repository](https://github.com/Mahadevj21/RealEstate)** | 
 
 ---
 
