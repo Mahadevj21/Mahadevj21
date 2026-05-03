@@ -122,25 +122,19 @@ Currently preparing for **software engineering roles** with focus on DSA and sys
 
 ## 📚 Currently Learning
 
-```
-🧠 Data Structures & Algorithms (Intensive Preparation)
-🎨 System Design Fundamentals
-🔐 Spring Security & OAuth2
-☁️ Cloud Deployment & DevOps Basics
-🚀 Advanced Spring Boot Patterns
-```
+🧠 Data Structures & Algorithms  
+🎨 System Design Fundamentals  
+🔐 Spring Security & OAuth2  
+☁️ Cloud Deployment Basics  
+🚀 Advanced Spring Boot Patterns  
 
 ---
 
-## 📬 Get In Touch
+## 📬 Let's Connect
 
 <div align="center">
 
-📧 **Email:** mahadevjangid21@gmail.com
-
-💼 **LinkedIn:** [linkedin.com/in/mahadev-jangid](https://www.linkedin.com/in/mahadev-jangid)
-
-💻 **GitHub:** [github.com/Mahadevj21](https://github.com/Mahadevj21)
+[📧 Email](mailto:mahadevjangid21@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/mahadev-jangid) · [💻 GitHub](https://github.com/Mahadevj21)
 
 </div>
 
