@@ -83,17 +83,7 @@ Currently preparing for **software engineering roles** with focus on DSA and sys
 
 ---
 
-### 3. 🤖 DevMatch (In Progress)
-**AI-powered job matcher using Claude AI**
 
-- Claude AI integration for skill extraction from job descriptions
-- Match score calculation & missing skills analysis
-- Job application tracking with analytics
-- Full-stack application with interactive dashboard
-
-**Tech:** Java · Spring Boot · React · PostgreSQL · Claude AI API
-
----
 
 ## 🎯 Core Competencies
 
