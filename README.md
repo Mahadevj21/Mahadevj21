@@ -127,5 +127,6 @@ I'm a full-stack developer passionate about building clean, scalable application
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
 
 *Open to collaborations, internships, and full-time opportunities — feel free to reach out!*
+Mahadevjangid21@gmail.com
 
 </div>
