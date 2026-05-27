@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-# Mahadev JANGID.
+# Mahadev JANGID
 ### Full-Stack Developer · Java · Spring Boot · React · GenAI
 
 <p align="center">
